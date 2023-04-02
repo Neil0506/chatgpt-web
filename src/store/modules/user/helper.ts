@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
       name: 'SCUD power',
-      description: 'Star on <a href="https://github.com/Chanzhaoyu/chatgpt-bot" class="text-blue-500" target="_blank" >Github</a>',
+      description: '仅供 <a href="http://oa.scud.cn:8088/seeyon/index.jsp" class="text-blue-500" target="_blank" >飞毛腿海外事业部</a>',
     },
   }
 }
